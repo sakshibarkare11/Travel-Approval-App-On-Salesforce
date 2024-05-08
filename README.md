@@ -1,11 +1,15 @@
 # Travel-Approval-App-On-Salesforce
 It's a custom Travel App resulting in travel approval activities across the organization and this meets these requirements:
 
-Each employee must submit an electronic request in the system for future travel.
-Each request includes a list of estimated expenses for airfare, hotel, rental car, and so on.
-Each request must be approved by the employee’s manager, and all out-of-state travel must be approved by a travel coordinator.
-Managers need reports and dashboards to track key travel request trends and KPIs.
-In addition, employees and managers must be able to access their travel requests, approvals, and dashboards via mobile device.
+1. Each employee must submit an electronic request in the system for future travel.
+
+2. Each request includes a list of estimated expenses for airfare, hotel, rental car, and so on.
+
+3. Each request must be approved by the employee’s manager, and all out-of-state travel must be approved by a travel coordinator.
+
+4. Managers need reports and dashboards to track key travel request trends and KPIs.
+
+5. In addition, employees and managers must be able to access their travel requests, approvals, and dashboards via mobile device.
 
 
 ![Home](https://github.com/sakshibarkare11/Travel-Approval-App-On-Salesforce/assets/68588419/2f7dd3d6-71a3-4d96-a3f6-ccf4b6a7733c)
